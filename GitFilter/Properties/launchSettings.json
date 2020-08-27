@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GitFilter": {
+      "commandName": "Project",
+      "commandLineArgs": "-m \"C:\\Users\\Arash\\source\\repos\\GitFilter\\GitFilter.TestApplier\\bin\\Debug\\netstandard2.0\\GitFilter.TestApplier.dll\"",
+      "workingDirectory": "C:\\gittest"
+    }
+  }
+}
